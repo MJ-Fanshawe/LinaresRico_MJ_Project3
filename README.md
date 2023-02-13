@@ -1,1 +1,1 @@
-# LinaresRico_MJ_Project3
+ Basic example of a media query
